@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T12:52:38 IST" name="Default suite" finished-at="2023-02-16T12:52:55 IST" duration-ms="17271">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T12:52:38 IST" name="Default test" finished-at="2023-02-16T12:52:55 IST" duration-ms="17271">
+      <class name="API.testreqres">
+        <test-method signature="afterTest()[pri:0, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:38 IST" name="afterTest" finished-at="2023-02-16T12:52:38 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method signature="beforeTest()[pri:0, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:38 IST" name="beforeTest" finished-at="2023-02-16T12:52:39 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="list_users()[pri:0, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:39 IST" name="list_users" finished-at="2023-02-16T12:52:41 IST" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_users -->
+        <test-method signature="single_user()[pri:1, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:41 IST" name="single_user" finished-at="2023-02-16T12:52:41 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- single_user -->
+        <test-method signature="single_user_not_found()[pri:2, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:41 IST" name="single_user_not_found" finished-at="2023-02-16T12:52:43 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- single_user_not_found -->
+        <test-method signature="list_resourse()[pri:3, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:43 IST" name="list_resourse" finished-at="2023-02-16T12:52:43 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_resourse -->
+        <test-method signature="list_single_resource()[pri:4, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:43 IST" name="list_single_resource" finished-at="2023-02-16T12:52:44 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_single_resource -->
+        <test-method signature="single_resource_not_found()[pri:5, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:44 IST" name="single_resource_not_found" finished-at="2023-02-16T12:52:45 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- single_resource_not_found -->
+        <test-method signature="create()[pri:6, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:45 IST" name="create" finished-at="2023-02-16T12:52:46 IST" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method signature="update()[pri:7, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:46 IST" name="update" finished-at="2023-02-16T12:52:47 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="patch_update()[pri:8, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:47 IST" name="patch_update" finished-at="2023-02-16T12:52:48 IST" duration-ms="912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch_update -->
+        <test-method signature="delete_user()[pri:9, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:48 IST" name="delete_user" finished-at="2023-02-16T12:52:49 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_user -->
+        <test-method signature="register_succesful()[pri:10, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:49 IST" name="register_succesful" finished-at="2023-02-16T12:52:49 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_succesful -->
+        <test-method signature="registration_unsuccesfull()[pri:11, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:49 IST" name="registration_unsuccesfull" finished-at="2023-02-16T12:52:50 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration_unsuccesfull -->
+        <test-method signature="login_succesful()[pri:12, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:50 IST" name="login_succesful" finished-at="2023-02-16T12:52:51 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_succesful -->
+        <test-method signature="login_unsuccesful()[pri:13, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:51 IST" name="login_unsuccesful" finished-at="2023-02-16T12:52:52 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_unsuccesful -->
+        <test-method signature="delayed_response()[pri:14, instance:API.testreqres@20deea7f]" started-at="2023-02-16T12:52:52 IST" name="delayed_response" finished-at="2023-02-16T12:52:55 IST" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delayed_response -->
+      </class> <!-- API.testreqres -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
